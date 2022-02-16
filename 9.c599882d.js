@@ -3308,14 +3308,14 @@
                     {
                       attrs: {
                         href:
-                          "https://chrome.google.com/webstore/detail/formless/bedankimochhfaikjlbipbpddcpnebff?hl=en",
+                          "https://chrome.google.com/webstore/detail/formless/bedankimochhfaikjlbipbpddcpnebff?hl=zh-CN",
                         target: "_blank",
                         rel: "noopener noreferrer",
                       },
                     },
                     [
                       t._v(
-                        "https://chrome.google.com/webstore/detail/formless/bedankimochhfaikjlbipbpddcpnebff?hl=en"
+                        "https://chrome.google.com/webstore/detail/formless/bedankimochhfaikjlbipbpddcpnebff?hl=zh-CN"
                       ),
                       a("OutboundLink"),
                     ],
